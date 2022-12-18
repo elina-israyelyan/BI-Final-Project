@@ -1,0 +1,7 @@
+.~lock.raw_data_source.xlsx#
+.project
+.dbeaver/
+.idea
+__pycache__/
+*.pyc
+sql_server_config.cfg
