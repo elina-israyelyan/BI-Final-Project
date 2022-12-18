@@ -48,7 +48,6 @@ create table DimShippers(
 
 );
 
-
 create table DimProducts_History(
 
   ProductKey int IDENTITY(1,1) PRIMARY KEY,

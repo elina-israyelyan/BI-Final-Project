@@ -8,7 +8,7 @@ Contributors: \
 
 
 #### Requirements
-To run the `xlsx_to_sql_ingest.py`  file you need to install the following packages:
+To run the `xlsx_to_sql_ingest_relational.py`  file you need to install the following packages:
 * pandas
 * pyodbc
 * numpy 
